@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "imageUrl": "https://images.pexels.com/photos/1244627/pexels-photo-1244627.jpeg",
+      "caption": "Düğün çekimlerimizden özel kareler ✨ #düğünfotoğrafçısı #düğünçekimi #ıspartadüğün",
+      "timestamp": "2024-02-20T15:30:00Z",
+      "type": "IMAGE"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://images.pexels.com/photos/1456613/pexels-photo-1456613.jpeg",
+      "caption": "Nişan çekimlerimizden romantik anlar 💑 #nişançekimi #nişanfotoğrafçısı #ıspartanişan",
+      "timestamp": "2024-02-18T14:20:00Z",
+      "type": "IMAGE"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://images.pexels.com/photos/2403392/pexels-photo-2403392.jpeg",
+      "caption": "Özel gün çekimleriniz için profesyonel hizmet 📸 #profesyonelfotoğraf #özelçekim #ıspartafotoğrafçı",
+      "timestamp": "2024-02-15T16:45:00Z",
+      "type": "IMAGE"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg",
+      "caption": "Doğal ve samimi kareler için buradayız 🌟 #doğalçekim #portre #ıspartaportre",
+      "timestamp": "2024-02-12T13:15:00Z",
+      "type": "IMAGE"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://images.pexels.com/photos/1974927/pexels-photo-1974927.jpeg",
+      "caption": "Aile çekimlerimizden mutlu anlar 👨‍👩‍👧‍👦 #ailefotoğrafı #aileçekimi #ıspartaaile",
+      "timestamp": "2024-02-10T11:30:00Z",
+      "type": "IMAGE"
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://images.pexels.com/photos/3014856/pexels-photo-3014856.jpeg",
+      "caption": "Mezuniyet çekimleriniz için özel konseptler 🎓 #mezuniyetçekimi #mezuniyetfotoğrafı #ıspartamezuniyet",
+      "timestamp": "2024-02-08T12:00:00Z",
+      "type": "IMAGE"
+    }
+  ]
+} 
