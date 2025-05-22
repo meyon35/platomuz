@@ -8,12 +8,12 @@ import { Autoplay, Navigation, Pagination } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
-import Hero from '@/components/Hero'
-import Stats from '@/components/Stats'
-import WhyUs from '@/components/WhyUs'
-import Services from '@/components/Services'
-import InstagramFeed from '@/components/InstagramFeed'
-import CTA from '@/components/CTA'
+import Hero from '../components/Hero'
+import Stats from '../components/Stats'
+import WhyUs from '../components/WhyUs'
+import Services from '../components/Services'
+import InstagramFeed from '../components/InstagramFeed'
+import CTA from '../components/CTA'
 
 interface Settings {
   heroTitle: string
